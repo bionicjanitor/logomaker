@@ -1,0 +1,25 @@
+//
+// Created by zains on 4/29/2022.
+//
+
+#include "ColorBox.h"
+
+ColorBox::ColorBox() : ColorBox(sf::Color::Black){
+
+}
+
+ColorBox::ColorBox(sf::Color color){
+    setFillColor(color);
+    setOutlineColor(sf::Color::White);
+    setOutlineThickness(1);
+    setSize({30,30});
+}
+
+void ColorBox::setColor(sf::Color color){
+    setFillColor(color);
+    setOutlineColor(sf::Color::White);
+}
+
+sf::Color ColorBox::getColor() const{
+    return getFillColor();
+}

@@ -1,0 +1,3 @@
+C:/Users/zains/CLionProjects/LogoMaker/cmake-build-debug/CMakeFiles/LogoMaker.dir
+C:/Users/zains/CLionProjects/LogoMaker/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zains/CLionProjects/LogoMaker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
