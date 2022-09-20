@@ -1,6 +1,5 @@
 //
-// Created by zains on 4/29/2022.
-//
+// 
 
 #include "ColorBox.h"
 
